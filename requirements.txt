@@ -1,4 +1,0 @@
-python-telegram-bot>=21.0,<22.0
-yt-dlp>=2025.1.1
-instaloader>=4.13
-python-dotenv>=1.0.0
